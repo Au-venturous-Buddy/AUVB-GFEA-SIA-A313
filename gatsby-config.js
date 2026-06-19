@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Au-venturous Buddy Gotta Fly 'Em All: Singapore Airlines A330-300`,
+    title: `Au-venturous Buddy Gotta Fly 'Em All: Singapore Airlines A380-800`,
     author: `Au-venturous Buddy`
   },
   plugins: [
@@ -26,8 +26,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Au-venturous Buddy Gotta Fly 'Em All: Singapore Airlines A330-300`,
-        short_name: `AUVB-GFEA-SIN-A333`,
+        name: `Au-venturous Buddy Gotta Fly 'Em All: Singapore Airlines A380-800`,
+        short_name: `AUVB-GFEA-SIN-A388`,
         start_url: `/`,
         background_color: `#017BFF`,
         theme_color: `#017BFF`,
