@@ -1,5 +1,5 @@
 ---
-title: "Singapore Airlines A380-800"
-retired: false
+title: "Singapore Airlines A310-300"
+retired: true
 category: "Wordpress Posts"
 ---
